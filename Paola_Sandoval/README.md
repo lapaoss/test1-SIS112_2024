@@ -1,1 +1,1 @@
-Repositorio para el Primer Examen de Progremacion
+Repositorio para el Primer Examen de Programacion
